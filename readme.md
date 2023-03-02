@@ -1,4 +1,4 @@
-Table d'employés avec les champs :
+## Table d'employés avec les champs :
 
 - id_employe
 - nom
@@ -8,7 +8,10 @@ Table d'employés avec les champs :
 - salaire
 - genre
 
+## Enoncé de requetes :
+
 - Mettre à jour le service et le salaire de l'employé "Lenord Kihn' :
+```
 service: sport
 salaire: 50500
-
+```
