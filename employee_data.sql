@@ -1,5 +1,5 @@
 CREATE TABLE `employes2` (
-  `id_employe` int(3) NOT NULL AUTO_INCREMENT,
+  `id_employe` int(3) NOT NULL ,
   `nom` varchar(20) DEFAULT NULL,
   `prenom` varchar(20) DEFAULT NULL,
   `service` varchar(30) DEFAULT NULL,
