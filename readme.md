@@ -7,3 +7,8 @@ Table d'employés avec les champs :
 - date_embauche
 - salaire
 - genre
+
+- Mettre à jour le service et le salaire de l'employé "Lenord Kihn' :
+service: sport
+salaire: 50500
+
