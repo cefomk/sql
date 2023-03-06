@@ -18,10 +18,10 @@ salaire: 50500
 
 ### Base de donnée Blibliotheque
 
-- Afficher l'id_abonne de laura ?
-- L'abonné id_abonne 2 est venu emprunter le livre à quel dates (date_sortie) ?
-- Combien d'emprunt ont été effectué en tout ?
-- Combien de livres sont sortis le 2011-12-19 ?
-- Quel est l'auteur du livre "Une vie" ?
-- De combien de livres d'Alexendre Dumas dispose-t-on ?
+1. Afficher l'id_abonne de laura ?
+2. L'abonné id_abonne 2 est venu emprunter le livre à quel dates (date_sortie) ?
+3. Combien d'emprunt ont été effectué en tout ?
+4. Combien de livres sont sortis le 2011-12-19 ?
+5. Quel est l'auteur du livre "Une vie" ?
+6. De combien de livres d'Alexendre Dumas dispose-t-on ?
  
